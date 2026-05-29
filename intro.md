@@ -1,5 +1,5 @@
-# **INTRODUCTION** \
-*** \
+# **INTRODUCTION**
+---
 Name: Sarah Park \
 Major: Math-CS \
 Year: Second \
