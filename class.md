@@ -1,4 +1,4 @@
-# *List of Major-Related Classes I've Taken:
+# **List of Major-Related Classes I've Taken:**
 **MATH 20B** - *Raymond Chou* 
 * first year fall quarter
 * first math class I've ever taken
