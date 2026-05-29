@@ -1,4 +1,4 @@
-# *Hello!*
+# **Hello!**
 > Here is a brief [introduction](https://sarahjuyeon.github.io/sarah-park/intro.html) about me!
 
 
