@@ -1,4 +1,6 @@
-Name: Sarah Park
-Major: Math-CS
-Year: Second
+# **INTRODUCTION** \n
+*** \n
+Name: Sarah Park \n
+Major: Math-CS \n
+Year: Second \n
 Favorite UCSD Class: MATH 103B
